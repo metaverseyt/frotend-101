@@ -1,19 +1,19 @@
-baslik{
+baslik {
     display: block;
     font-weight: bold;
     margin-bottom: 24px;
 }
 
-misra{
+misra {
     display: block;
 }
 
-dortluk{
+dortluk {
     display: block;
     margin-bottom: 16px;
 }
 
-sair{
+sair {
     display: block;
     font-style: italic;
 }
